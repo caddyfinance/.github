@@ -4,63 +4,50 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/CaddyFi?style=social)](https://twitter.com/CaddyFi)
 
-## Bridging TradFi and DeFi through Innovative Hedging Strategies
+# 🚀 Caddy Finance: The First LSD Perpetual Options Protocol
 
-Caddy Finance is revolutionizing DeFi by bringing institutional-grade hedging solutions that make decentralized investments safer and more predictable through our innovative Dual Pool Mechanism.
+![Audits](https://img.shields.io/badge/Audit-Pending-green) ![License](https://img.shields.io/badge/License-MIT-purple)  
 
-## 🚀 Key Features
+---
 
-* **Dual Pool Mechanism**: Innovative approach combining Forward Lending and Indemnification Pools
-* **Protection Bands**: Clear, measurable protection levels for your investments
-* **Sustainable Yields**: Generate consistent returns through forward lending strategies
-* **EigenLayer Integration**: Enhanced security through AVS implementation
-* **Institutional-Grade Infrastructure**: Professional tools for portfolio management
+## 🌟 **Why Caddy?**  
+Caddy redefines decentralized finance by merging **liquid staking derivatives (LSDs)** with institutional-grade hedging strategies. Our protocol enables:  
+- **Dual Yield Generation**: Earn continuous staking rewards + options premiums.  
+- **Capital Efficiency**: Trade or hedge directly from staked assets—no lockups.  
+- **TradFi Risk Frameworks**: Dynamic pricing, protection bands, and restaking-secured infrastructure.  
 
-## 💡 How It Works
+---
 
-1. **User Deposits**: Deposit funds and select protection level
-2. **Pool Allocation**: Funds split between Forward Lending and Indemnification Pools
-3. **Protection Activation**: Clear strike and floor prices for protection
-4. **Yield Generation**: Sustainable yields through forward lending
-5. **Risk Management**: Continuous monitoring and protection adjustments
+## 🛠️ **Core Features**  
+| **Feature**                | **Description**                                                                 |  
+|----------------------------|---------------------------------------------------------------------------------|  
+| **LSD Options Marketplace** | Trade perpetual options on staked assets via AMM-powered liquidity pools.      |  
+| **Dynamic Pricing Engine**  | Algorithmic adjustments for premiums/strikes based on LSD rebases and volatility.|  
+| **Protection Bands**        | Auto-triggered buybacks and floor prices to mitigate downside risk.             |  
+| **Dual Pool Architecture**  | Forward Lending (yield) + Indemnification (protection) pools for capital efficiency. |  
 
-## 🏆 Core Components
+---
 
-### Forward Lending Pool
-* Generates yield through protocol lending
-* Optimizes capital efficiency
-* Manages protocol exposure
+## ⚡ **How It Works**  
+1. **Stake & Mint LSDs**  
+   Deposit assets (e.g., ETH) to mint yield-bearing LSD tokens.  
+2. **Trade/Hedge Perps**  
+   Use LSD tokens as collateral to write or buy perpetual options.  
+3. **Earn Continuously**  
+   Collect staking rewards + premiums. Exit positions instantly.  
 
-### Indemnification Pool
-* Provides protection coverage
-* Issues $PUTT tokens
-* Implements protection bands
+---
 
-### Protection Framework
-* Dynamic price protection levels
-* Automated buyback triggers
-* Real-time monitoring systems
+## 📊 **Protocol Components**  
+### **LSD Collateral Engine**  
+- Converts staked assets into yield-bearing LSD tokens.  
+- Enables collateralization for options trading.  
 
-## 🔐 Security Features
+### **Perpetual Options AMM**  
+- Automated market-making for LSD options.  
+- Dynamic pricing based on rebase yields and volatility.  
 
-* **EigenLayer Security**
-  * Decentralized validation through AVS nodes
-  * Multi-layer security checks
-  * Distributed consensus mechanisms
-
-* **Protection Mechanisms**
-  * Circuit breakers
-  * Coverage monitoring
-  * Smart contract security
-  * Regular audits
-
-## 🌉 Benefits
-
-* Professional-grade risk management
-* Predictable yield generation
-* Clear protection parameters
-* Institutional-ready infrastructure
-* Enhanced security through EigenLayer
+---
 
 ## 📞 Connect With Us
 
@@ -68,7 +55,6 @@ Caddy Finance is revolutionizing DeFi by bringing institutional-grade hedging so
 * Twitter: [@CaddyFinance](https://twitter.com/CaddyFi)
 * Telegram: [Caddy Finance Community](https://t.me/CaddyFi)
 * Discord: [Join our Community](https://discord.gg/wX4P9va8Ry)
-* Documentation: [docs.caddyfinance.xyz](https://docs.caddy.finance)
 
 ---
 © 2025 Caddy Finance. All rights reserved.
