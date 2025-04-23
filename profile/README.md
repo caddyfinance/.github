@@ -4,7 +4,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/CaddyFi?style=social)](https://twitter.com/CaddyFi)
 
-# 🚀 Caddy Finance: The First LSD Perpetual Options Protocol
+# 🚀 Caddy Finance: Bitcoin options vault, reimagined.
 
 ![Audits](https://img.shields.io/badge/Audit-Pending-green) ![License](https://img.shields.io/badge/License-MIT-purple)  
 
