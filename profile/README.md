@@ -8,46 +8,29 @@
 
 ![Audits](https://img.shields.io/badge/Audit-Pending-green) ![License](https://img.shields.io/badge/License-MIT-purple)  
 
----
+📢 Caddy Finance: Yield Vault Protocol for Bitcoin Derivatives 🚨  
 
-## 🌟 **Why Caddy?**  
-Caddy redefines decentralized finance by merging **liquid staking derivatives (LSDs)** with institutional-grade hedging strategies. Our protocol enables:  
-- **Dual Yield Generation**: Earn continuous staking rewards + options premiums.  
-- **Capital Efficiency**: Trade or hedge directly from staked assets—no lockups.  
-- **TradFi Risk Frameworks**: Dynamic pricing, protection bands, and restaking-secured infrastructure.  
+🏦 Deposit BTC and earn yields through derivatives strategies—choose Bull, Neutral, or Bear vaults and let our RFQ‑powered engine handle execution, risk mitigation, and payouts.  
 
----
 
-## 🛠️ **Core Features**  
-| **Feature**                | **Description**                                                                 |  
-|----------------------------|---------------------------------------------------------------------------------|  
-| **LSD Options Marketplace** | Trade perpetual options on staked assets via AMM-powered liquidity pools.      |  
-| **Dynamic Pricing Engine**  | Algorithmic adjustments for premiums/strikes based on LSD rebases and volatility.|  
-| **Protection Bands**        | Auto-triggered buybacks and floor prices to mitigate downside risk.             |  
-| **Dual Pool Architecture**  | Forward Lending (yield) + Indemnification (protection) pools for capital efficiency. |  
+🛠 How It Works (BTC Yield Vaults)  
+1️⃣ Deposit BTC – One‑click, no extra tokens issued; your collateral stays in your wallet.  
+2️⃣ Choose Your Vault – Bull (covered calls), Neutral (straddles & iron condors), or Bear (put spreads) strategies—pick based on your market outlook.  
+3️⃣ RFQ Execution – We source the best bids and offers from partner market‑maker desks off‑chain—no self‑managed pools.  
 
----
+💰 Why Choose BTC Yield Vaults?  
+- Three Market Views – Tailored Bull, Neutral, and Bear vaults to match any outlook.  
+- Seamless Interoperability – Shift BTC collateral between vaults in one click with zero lockups or redeposits.  
+- Institutional‑Grade Safeguards – Quote revocation mechanisms and atomic settlement ensure enterprise‑level risk mitigation.  
 
-## ⚡ **How It Works**  
-1. **Stake & Mint LSDs**  
-   Deposit assets (e.g., ETH) to mint yield-bearing LSD tokens.  
-2. **Trade/Hedge Perps**  
-   Use LSD tokens as collateral to write or buy perpetual options.  
-3. **Earn Continuously**  
-   Collect staking rewards + premiums. Exit positions instantly.  
+ Recent Traction:  
+ ⛳️ Our product is live on testnet.  
+🏆 Seed Grant by Starknet Foundation and part of Soonami Venturethon 6
+🚀  Backed by Brinc.io Accelerator. 
 
----
-
-## 📊 **Protocol Components**  
-### **LSD Collateral Engine**  
-- Converts staked assets into yield-bearing LSD tokens.  
-- Enables collateralization for options trading.  
-
-### **Perpetual Options AMM**  
-- Automated market-making for LSD options.  
-- Dynamic pricing based on rebase yields and volatility.  
-
----
+🗝️ Key Metrics: https://stats.caddy.finance
+🌐 Website: https://caddy.finance/ 🚀
+🌐 Testnet: https://alpha.caddy.finance
 
 ## 📞 Connect With Us
 
