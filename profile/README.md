@@ -4,29 +4,30 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/CaddyFi?style=social)](https://twitter.com/CaddyFi)
 
-# 🚀 Caddy Finance: Bitcoin options vault, reimagined.
+# 🚀 Caddy Finance: Bitcoin Yield vaults.
 
 ![Audits](https://img.shields.io/badge/Audit-Pending-green) ![License](https://img.shields.io/badge/License-MIT-purple)  
 
-📢 Caddy Finance: Yield Vault Protocol for Bitcoin Derivatives 🚨  
+📢 Caddy Finance: Institutional Yield on Retail BTC 🚨  
 
-🏦 Deposit BTC and earn yields through derivatives strategies—choose Bull, Neutral, or Bear vaults and let our RFQ‑powered engine handle execution, risk mitigation, and payouts.  
+🏦 Caddy Finance aggregates retail BTC liquidity into single-click derivatives vaults, bridging the gap between underutilized retail holdings and high-yield institutional markets. 
 
 
-🛠 How It Works (BTC Yield Vaults)  
-1️⃣ Deposit BTC – One‑click, no extra tokens issued; your collateral stays in your wallet.  
-2️⃣ Choose Your Vault – Bull (covered calls), Neutral (straddles & iron condors), or Bear (put spreads) strategies—pick based on your market outlook.  
-3️⃣ RFQ Execution – We source the best bids and offers from partner market‑maker desks off‑chain—no self‑managed pools.  
+🛠 How It Works:
+- 1️⃣ Deposit BTC – No custody risk; collateral stays in your wallet.
+- 2️⃣ Choose Your Vault – High risk, Medium Risk and Low risk vaults.
+- 3️⃣ Auto-Execute – RFQ-powered engine sources best bids from institutional market makers (e.g., Daler).
 
-💰 Why Choose BTC Yield Vaults?  
-- Three Market Views – Tailored Bull, Neutral, and Bear vaults to match any outlook.  
-- Seamless Interoperability – Shift BTC collateral between vaults in one click with zero lockups or redeposits.  
-- Institutional‑Grade Safeguards – Quote revocation mechanisms and atomic settlement ensure enterprise‑level risk mitigation.  
+💡 Why Caddy?
+- Institutional Access, Retail Simplicity: Participate in structured derivatives (e.g., options, futures) without complexity.
+- Zero Lockups: Seamlessly shift BTC between vaults with one click.
+- Risk-Mitigated: Atomic settlements & quote revocation for enterprise-grade safety.
 
- Recent Traction:  
- ⛳️ Our product is live on testnet.  
-🏆 Seed Grant by Starknet Foundation and part of Soonami Venturethon 6
-🚀  Backed by Brinc.io Accelerator. 
+
+🚀 Traction & Partnerships
+- ✅ Live on Starknet & Monad Testnet – 187K+ wallets, 1.3M+ transactions.
+- 🎯 500+ Whitelisted Users – First vaults go live June 29th 2025 [here](https://starknent.caddy.finance).
+- 🤝 Backed by Starknet Foundation and Soonami.io.
 
 🗝️ Key Metrics: https://stats.caddy.finance
 🌐 Website: https://caddy.finance/ 🚀
