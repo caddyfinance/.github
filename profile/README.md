@@ -8,30 +8,37 @@
 
 ![Audits](https://img.shields.io/badge/Audit-Pending-green) ![License](https://img.shields.io/badge/License-MIT-purple)  
 
-📢 Caddy Finance: Institutional Yield on Retail BTC 🚨  
+Caddy Finance: Bitcoin Yield Vaults for Everyone
 
-🏦 Caddy Finance aggregates retail BTC liquidity into single-click derivatives vaults, bridging the gap between underutilized retail holdings and high-yield institutional markets. 
+Earn institutional grade yields on your Bitcoin effortlessly. Deposit BTC with a single click, and let Caddy’s smart vaults automate the rest. Choose your risk profile (High, Medium, or Low) and benefit from professional derivatives strategies executed by top trading desks, optimized for you.
+
+How It Works
+
+1️⃣ Deposit BTC in Seconds - no complexity.
+
+2️⃣ Pick Your Vault – Aligns with your risk tolerance and market outlook.
+
+3️⃣ Earn Passive Yield – Powered by institutional strategies, simplified for retail.
 
 
-🛠 How It Works:
-- 1️⃣ Deposit BTC – No custody risk; collateral stays in your wallet.
-- 2️⃣ Choose Your Vault – High risk, Medium Risk and Low risk vaults.
-- 3️⃣ Auto-Execute – RFQ-powered engine sources best bids from institutional market makers (e.g., Daler).
+Why Caddy?
 
-💡 Why Caddy?
-- Institutional Access, Retail Simplicity: Participate in structured derivatives (e.g., options, futures) without complexity.
-- Zero Lockups: Seamlessly shift BTC between vaults with one click.
-- Risk-Mitigated: Atomic settlements & quote revocation for enterprise-grade safety.
+🔹 Match Your Market Conviction – Pick a vault that aligns with your BTC outlook.
+
+🔹 Switch Strategies Instantly – Reallocate collateral in one click no withdrawals.
+
+🔹 Institutional Yields, Zero Effort – Let trading desks handle execution while you earn.
 
 
 🚀 Traction & Partnerships
-- ✅ Live on Starknet & Monad Testnet – 187K+ wallets, 1.3M+ transactions.
-- 🎯 500+ Whitelisted Users – First vaults go live June 29th 2025 [here](https://starknent.caddy.finance).
+- ✅ Live on Starknet & Monad Testnet – 250K+ wallets, 1.5M+ transactions.
+- 🎯 Live ON Starkent with wBTC [here](https://starknent.caddy.finance).
 - 🤝 Backed by Starknet Foundation and Soonami.io.
 
 🗝️ Key Metrics: https://stats.caddy.finance
 🌐 Website: https://caddy.finance/ 🚀
 🌐 Testnet: https://alpha.caddy.finance
+🌐 Mainnet: https://starknet.caddy.finance
 
 ## 📞 Connect With Us
 
