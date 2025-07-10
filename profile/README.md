@@ -4,11 +4,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/CaddyFi?style=social)](https://twitter.com/CaddyFi)
 
-# 🚀 Caddy Finance: Bitcoin Yield vaults.
+# 🚀 Caddy Finance: Bitcoin Yield Vaults for Everyone.
 
 ![Audits](https://img.shields.io/badge/Audit-Pending-green) ![License](https://img.shields.io/badge/License-MIT-purple)  
 
-Caddy Finance: Bitcoin Yield Vaults for Everyone
 
 Earn institutional grade yields on your Bitcoin effortlessly. Deposit BTC with a single click, and let Caddy’s smart vaults automate the rest. Choose your risk profile (High, Medium, or Low) and benefit from professional derivatives strategies executed by top trading desks, optimized for you.
 
