@@ -31,7 +31,7 @@ Why Caddy?
 
 🚀 Traction & Partnerships
 - ✅ Live on Starknet & Monad Testnet – 250K+ wallets, 1.5M+ transactions.
-- 🎯 Live ON Starkent with wBTC [here](https://starknent.caddy.finance).
+- 🎯 Live on Starkent with wBTC [here](https://starknent.caddy.finance).
 - 🤝 Backed by Starknet Foundation and Soonami.io.
 
 🗝️ Key Metrics: https://stats.caddy.finance
