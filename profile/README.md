@@ -34,7 +34,7 @@ This milestone partnership has been featured in major outlets:
 ### 🚀 Traction & Partnerships
 - ✅ Live on **Starknet Mainnet**, **Arbitrum Mainnet** (wBTC & BTC) → https://app.caddy.finance  
 - ✅ Expanding pure BTCfi yield products across multiple chains  
-- 🤝 Strategic partners & backers: **Starknet Foundation**, **Soonami.io**, **Syntetika / Hilbert Group** **Daler Trader**
+- 🤝 Strategic partners & backers: **Starknet Foundation**, **Soonami.io**, **Syntetika / Hilbert Group** and **Daler Trader**
 
 🌐 Website: https://caddy.finance 🚀  
 🌐 Mainnet: https://app.caddy.finance
