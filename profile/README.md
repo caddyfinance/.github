@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/367fc7ea-1622-47f9-9491-979888164293" alt="Caddy Finance Logo" width="700"/>
 </div>
-[![Twitter Follow](https://img.shields.io/twitter/follow/CaddyFi?style=social)](https://twitter.com/CaddyFi)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/caddyfi)
 
 # 🚀 Caddy Finance: Institutional Curation Vaults for Bitcoin Yield
 ![Audits](https://img.shields.io/badge/Audit-Pending-green) ![License](https://img.shields.io/badge/License-MIT-purple)
@@ -31,25 +32,18 @@ This milestone partnership has been featured in major outlets:
 …and many more top-tier finance & crypto media.
 
 ### 🚀 Traction & Partnerships
-- ✅ Live on **Starknet Mainnet** (wBTC & BTC) → https://starknet.caddy.finance  
+- ✅ Live on **Starknet Mainnet**, **Arbitrum Mainnet** (wBTC & BTC) → https://app.caddy.finance  
 - ✅ Expanding pure BTCfi yield products across multiple chains  
-- 🤝 Strategic partners & backers: **Starknet Foundation**, **Soonami.io**, **Syntetika / Hilbert Group**  
-- 🗝️ Live Stats: https://stats.caddy.finance  
+- 🤝 Strategic partners & backers: **Starknet Foundation**, **Soonami.io**, **Syntetika / Hilbert Group** **Daler Trader**
 
 🌐 Website: https://caddy.finance 🚀  
-🌐 Mainnet: https://starknet.caddy.finance  
+🌐 Mainnet: https://app.caddy.finance
 
 ### 📞 Connect With Us
 - Website: [caddy.finance](https://www.caddy.finance)  
 - Twitter: [@CaddyFi](https://twitter.com/CaddyFi)  
 - Telegram: [Caddy Finance Community](https://t.me/CaddyFi)  
-- Discord: [Join our Community](https://discord.gg/wX4P9va8Ry)  
-
-We’re actively bringing institutional-grade Bitcoin yields to new ecosystems and would love to explore **Solana liquidity & BTCfi collaborations**.  
-
-Happy to hop on a quick call to share our latest updates and discuss potential synergies!  
-
-Looking forward to connecting 🤝  
+- Discord: [Join our Community](https://discord.gg/wX4P9va8Ry) 
 
 ---
 © 2025 Caddy Finance. All rights reserved.
