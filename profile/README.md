@@ -7,7 +7,7 @@
 # 🚀 Caddy Finance: Institutional Curation Vaults for Bitcoin Yield
 ![Audits](https://img.shields.io/badge/Audit-Pending-green) ![License](https://img.shields.io/badge/License-MIT-purple)
 
-**Earn instutional yields on your Bitcoin and wrapped BTC assets effortlessly — no stables required.**  
+**Earn institutional yields on your Bitcoin and wrapped BTC assets effortlessly — no stables required.**  
 Deposit BTC with a single click, choose your risk profile (High, Medium, or Low), and let Caddy’s smart vaults automate professional derivatives strategies executed by top trading desks.
 
 ### How It Works
