@@ -41,7 +41,7 @@ The same model can later support other Bitcoin-native protocols, liquid-staking 
 
 ## Previous Traction and Ecosystem Credibility
 
-Caddy started in August 2024 and tested managed yield, derivatives, hedging, and institutional-vault products before narrowing to the servicing layer. Those earlier iterations exposed the recurring problem behind the current thesis: every new yield product required a bespoke operational back office.
+Caddy has tested managed yield, derivatives, hedging, and institutional-vault products before narrowing to the servicing layer. Those earlier iterations exposed the recurring problem behind the current thesis: every new yield product required a bespoke operational back office.
 
 * Deployed earlier BTC and wrapped-BTC vault products on **Starknet Mainnet** and **Arbitrum Mainnet**. [View the earlier application](https://app.caddy.finance).
 * Selected as a [**Top 10 team at StableHacks**](https://www.linkedin.com/posts/abhishek-sira-chandrashekar-821244b7_stablehacks-solana-fintech-activity-7452570639560777729-OAH4) from 114 submissions across 59 countries. StableHacks was co-hosted by **Tenity, AMINA Bank, and the Solana Foundation**, with Solstice as challenge partner. [Read about StableHacks](https://www.tenity.com/tenity-launches-stablecoin-hackathon/).
